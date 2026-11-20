@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Icons for macOS"
+  short_description: "Download official favicons and create macOS ICNS icons"
+  default_prompt: "Use $website-macos-icon to find official website icon candidates, or to turn a selected image into a macOS ICNS icon for Finder and the Dock. If several distinct designs are found, show me the originals first so I can choose."
